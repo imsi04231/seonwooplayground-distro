@@ -12,7 +12,7 @@
       "name": "선우의 놀이터 (Minecraft 1.20.1)",
       "description": "seonwooplayground Running Minecraft 1.20.1 (Fabric v0.16.9)",
       "icon": null,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "seonwooplayground.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -351,9 +351,9 @@
           "name": "resourcepacks.zip",
           "type": "File",
           "artifact": {
-            "size": 5751048,
+            "size": 5746960,
             "url": "https://raw.githubusercontent.com/imsi04231/seonwooplayground-distro/main/servers/seonwooplayground-1.20.1/files/resourcepacks/resourcepacks.zip",
-            "MD5": "2fd6af165458a4463bba677b669fc05c",
+            "MD5": "03748d02bf6a324bbae292d7854e6a38",
             "path": "resourcepacks/resourcepacks.zip"
           }
         },
